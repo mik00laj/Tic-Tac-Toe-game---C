@@ -70,3 +70,21 @@ Prosta gra w kółko i krzyżyk na konsolę – terminal. Gra składa się z pla
    - void zamiana01Macierz(); //zamienia 0 na 1
    - void zliczanieMacierz(); //sprawdza czy macierz zawiera same 1
    - void komunikatWygrana(); //wyświetla komunikat o wygranej
+
+  # Results 
+  
+Start
+
+![image](https://github.com/mik00laj/Tic-Tac-Toe-game---C/assets/108618874/91578d76-2670-4811-bce1-14b7b43d87ba)
+
+Step 1
+
+![image](https://github.com/mik00laj/Tic-Tac-Toe-game---C/assets/108618874/346233ee-1bf2-4382-b300-14d3eea035b6)
+
+Step 2
+
+![image](https://github.com/mik00laj/Tic-Tac-Toe-game---C/assets/108618874/0b265b1c-8452-4ffe-8c82-895adc8d7c1f)
+
+
+
+
