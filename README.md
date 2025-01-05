@@ -49,7 +49,7 @@ Prosta gra w kółko i krzyżyk na konsolę – terminal. Gra składa się z pla
    Kompilacja i uruchomienie programu odbywa się w Visual Studio Code
 5) Zasada działania
    
-   Algorytm tworzy macierz o wymiarze 8x8, a następnie wypełnia ją samymi 0, nadaję wyglądu macierzy, tworzy ramkę i numeruje wiersze i kolumny. Użytkownik wybiera wiersze i kolumny, algorytm pilnuje żeby były wybrane z poprawnego zakresu, zlicza ruchy użytkownika, zamienia 0 na 1, zlicza ilość zer w macierzy,         jeśli macierz jest wypełniona samymi zerami, wyświetla komunikat o wygranej.
+   Algorytm tworzy macierz o wymiarze 8x8, a następnie wypełnia ją samymi 0, nadaję wyglądu macierzy, tworzy ramkę i numeruje wiersze i kolumny. Użytkownik wybiera wiersze i kolumny, algorytm pilnuje żeby były wybrane z poprawnego zakresu, zlicza ruchy użytkownika, zamienia 0 na 1, zlicza ilość zer w macierzy, jeśli macierz jest wypełniona samymi zerami, wyświetla komunikat o wygranej.
 7) Wykaz zmiennych
    
    Użyłem w kodzie zmiennych globalnych:
